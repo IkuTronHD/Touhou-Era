@@ -1,0 +1,88 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,CreditsA>
+\c[2]クレジット
+
+\c[2]エンジン
+\c[3]株式会社デジカ
+\c[3]RPGツクール MV
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_13>
+\c[2]壁紙はインターネットから取得しましたが、
+\c[2]によって作成されました:
+\c[3]- 東方Projectのゲームの表紙 - ZUN
+\c[3]- 博麗 霊夢 - Wamzz
+\c[3]- 霧雨　魔理沙 - Onineko
+\c[3]- 豪徳寺 ミケ - Kumorix
+\c[3]- 山城 たかね - うわずみ
+\c[3]- 駒草 山如 - cheeseroll
+\c[3]- 玉造 魅須丸 - Joniko1110
+\c[3]- 菅牧 典 - Liya
+\c[3]- 飯綱丸 龍 - 明ノ宮 飛鳥
+\c[3]- 天弓 千亦 - 飞☆猫 (ANGELCAT)
+\c[3]- 姫虫 百々世 - Kuroshirase
+\c[3]- 妖精メイド - Capura Lin
+\c[3]- ルーミア - Kitou Kaitai
+\c[3]- 大妖精 - はちみつ飴＠ツイッター
+\c[3]- チルノ - キサム
+\c[3]- 毛玉 - Gorilla (Bun0615)
+\c[3]- ゾンビフェアリー - Ichiyan
+\c[3]- ひまわり妖精 - R Pascal
+\c[3]- イビルアイ - 灯跡（ヒセキ）
+\c[3]- 紅 美鈴 - ryosios
+\c[3]- 小悪魔 - 破颜の拳@仕事募集中
+\c[3]- パチュリー・ノーレッジ - 6U☆
+\c[3]- 十六夜 咲夜 - Tidsean
+\c[3]- レミリア・スカーレット - biyonbiyon
+\c[3]- フランドール・スカーレット - LIEN_人畜無害
+\c[3]- 博麗 霊夢 (PC-9800シリーズ) - November☆
+\c[3]- シンギョク - kaoru
+\c[3]- ユウゲンマガン - Kuronekonero
+\c[3]- エリス - Kuronekonero
+\c[3]- Sariel - Kan (kankan33333)
+\c[3]- 魅魔 - ZB
+\c[3]- キクリ - Wakakoubou
+\c[3]- コンガラ - へもぐろびんＡ１Ｃ
+\c[3]- 玄爺 - baba＠静岡例大祭あ０４ab
+\c[3]- 里香 - baba＠静岡例大祭あ０４ab
+\c[3]- クレジット - Unk Kyouso
+</block>
+
+<block:-1,-1,10,10,offbot,right,Pic_19>
+\c[2]ミニキャラクター、作成者:
+\c[3]スペキュラム合金 -
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_25>
+\c[2]作成したプラグイン:
+\c[3]- Moghunter
+\c[3]- SumRndmDde
+\c[3]- HimeWorks
+\c[3]- MushroomCake28
+\c[3]- Yanfly Engine Plugins
+\c[3]- Galv's RPG Maker
+\c[3]- Cutievirus
+\c[3]- LTN Games
+</block>
+
+<block:-1,-1,10,10,offbot,right,Pic_20>
+\c[2]話すときのイメージ:
+\c[3]kaoru -
+\c[3]dairi -
+\c[3]ZUN (一部はオリジナルのゲームから取られています。) -
+\c[3]R Pascal (ひまわり妖精) -
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_11>
+\c[2]が作った曲:
+\c[3]- ZUN
+\c[3]- 東京アクティブNEETs
+\c[3]- Zekken'ya
+\c[3]- O-LIFE.JP
+</block>
+
+<block:999,0,10,10,300,center,Pic_10>
+\c[2]このデモをプレイしてくれてありがとう!!!
+</block>

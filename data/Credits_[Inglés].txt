@@ -1,0 +1,87 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,CreditsA>
+\c[2]Credits
+
+\c[2]Engine
+\c[3]Degica
+\c[3]RPG Maker MV
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_13>
+\c[2]Wallpapers Taken from the internet but made by:
+\c[3]- The covers of the Touhou Project games - ZUN
+\c[3]- Reimu Hakurei - Wamzz
+\c[3]- Marisa Kirisame - Onineko
+\c[3]- Mike Goutokuji - Kumorix
+\c[3]- Takane Yamashiro - うわずみ
+\c[3]- Sannyo Komakusa - cheeseroll
+\c[3]- Misumaru Tamatsukuri - Joniko1110
+\c[3]- Tsukasa Kudamaki - Liya
+\c[3]- Megumu Iizunamaru - 明ノ宮 飛鳥
+\c[3]- Chimata Tenkyuu - 飞☆猫 (ANGELCAT)
+\c[3]- Momoyo Himemushi - Kuroshirase
+\c[3]- Fairy Maid - Capura Lin
+\c[3]- Rumia - Kitou Kaitai
+\c[3]- Daiyousei - はちみつ飴＠ツイッター
+\c[3]- Cirno - キサム
+\c[3]- Kedama - Gorilla (Bun0615)
+\c[3]- Zombie Fairy - Ichiyan
+\c[3]- Sunflower Fairy - R Pascal
+\c[3]- Evil Eye - 灯跡（ヒセキ）
+\c[3]- Hong Meiling - ryosios
+\c[3]- Koakuma - 破颜の拳@仕事募集中
+\c[3]- Patchouli Knowledge - 6U☆
+\c[3]- Sakuya Izayoi - Tidsean
+\c[3]- Remilia Scarlet - biyonbiyon
+\c[3]- Flandre Scarlet - LIEN_人畜無害
+\c[3]- Reimu Hakurei (PC-98) - November☆
+\c[3]- SinGyoku - kaoru
+\c[3]- YuugenMagan - Kuronekonero
+\c[3]- Elis - Kuronekonero
+\c[3]- Sariel - Kan (kankan33333)
+\c[3]- Mima - ZB
+\c[3]- Kikuri - Wakakoubou
+\c[3]- Konngara - へもぐろびんＡ１Ｃ
+\c[3]- Genjii - baba＠静岡例大祭あ０４ab
+\c[3]- Rika - baba＠静岡例大祭あ０４ab
+\c[3]- Credits - Unk Kyouso
+</block>
+
+<block:-1,-1,10,10,offbot,right,Pic_19>
+\c[2]Minis Charas made by:
+\c[3]スペキュラム合金 -
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_25>
+\c[2]Plugins made by:
+\c[3]- Moghunter
+\c[3]- SumRndmDde
+\c[3]- HimeWorks
+\c[3]- MushroomCake28
+\c[3]- Yanfly Engine Plugins
+\c[3]- Galv's RPG Maker
+\c[3]- Cutievirus
+\c[3]- LTN Games
+</block>
+
+<block:-1,-1,10,10,offbot,right,Pic_20>
+\c[2]Images when they speak:
+\c[3]kaoru -
+\c[3]dairi -
+\c[3]ZUN (Some are taken from the original games.) -
+\c[3]R Pascal (Sunflower Fairy) -
+</block>
+
+<block:-1,-1,10,10,offbot,left,Pic_11>
+\c[2]Songs made by:
+\c[3]- ZUN
+\c[3]- 東京アクティブNEETs
+\c[3]- Zekken'ya
+\c[3]- O-LIFE.JP
+</block>
+
+<block:999,0,10,10,300,center,Pic_10>
+\c[2]Thanks for playing this demo!!!
+</block>
