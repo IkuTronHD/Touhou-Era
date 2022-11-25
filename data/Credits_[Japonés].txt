@@ -47,6 +47,8 @@ will not display in the credits scene
 \c[3]- コンガラ - へもぐろびんＡ１Ｃ
 \c[3]- 玄爺 - baba＠静岡例大祭あ０４ab
 \c[3]- 里香 - baba＠静岡例大祭あ０４ab
+\c[3]- 明羅 - Kotaro-nosuke
+\c[3]- 呪い子 - Haya Taro Pochi
 \c[3]- クレジット - Unk Kyouso
 </block>
 

@@ -54,6 +54,6 @@ null,
 {"id":52,"expanded":false,"name":"Touhou 1 - St2: Hell","order":52,"parentId":48,"scrollX":579,"scrollY":371},
 {"id":53,"expanded":false,"name":"Touhou 1 - St3: Hell","order":53,"parentId":48,"scrollX":579,"scrollY":371},
 {"id":54,"expanded":false,"name":"Touhou 1 - St4: Hell","order":54,"parentId":48,"scrollX":579,"scrollY":371},
-{"id":55,"expanded":true,"name":"Touhou 2 - St1","order":55,"parentId":0,"scrollX":571,"scrollY":371},
-{"id":56,"expanded":false,"name":"Touhou 2 - St2","order":56,"parentId":55,"scrollX":579,"scrollY":371}
+{"id":55,"expanded":true,"name":"Touhou 2 - St1","order":55,"parentId":0,"scrollX":571,"scrollY":391},
+{"id":56,"expanded":false,"name":"Touhou 2 - St2","order":56,"parentId":55,"scrollX":571,"scrollY":385}
 ]

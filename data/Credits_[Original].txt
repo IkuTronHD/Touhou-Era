@@ -47,6 +47,8 @@ will not display in the credits scene
 \c[3]- Konngara - へもぐろびんＡ１Ｃ
 \c[3]- Genjii - baba＠静岡例大祭あ０４ab
 \c[3]- Rika - baba＠静岡例大祭あ０４ab
+\c[3]- Meira - Kotaro-nosuke
+\c[3]- Noroiko - Haya Taro Pochi
 \c[3]- Créditos - Unk Kyouso
 </block>
 
