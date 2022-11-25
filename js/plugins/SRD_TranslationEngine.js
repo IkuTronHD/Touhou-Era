@@ -449,7 +449,7 @@ Utils.isOptionValid = function(name) {
 
 $.params = PluginManager.parameters('SRD_TranslationEngine');
 
-$.isNewNWjs = true; //process.versions['node-webkit'] >= "0.13.0";
+$.isNewNWjs = false; //process.versions['node-webkit'] >= "0.13.0";
 
 try {
 	$.languages = JSON.parse($.params['Languages']);
