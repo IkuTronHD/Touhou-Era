@@ -56,6 +56,12 @@ will not display in the credits scene
 \c[3]スペキュラム合金 -
 </block>
 
+<block:-1,-1,10,10,offbot,right,Pic_19>
+\c[2]Vozes/Elenco:
+\c[3]- Remilia Scarlet - JuanLuGames
+\c[3]- Genjii - JoseMix
+</block>
+
 <block:-1,-1,10,10,offbot,left,Pic_25>
 \c[2]Plugins feitos por:
 \c[3]- Moghunter

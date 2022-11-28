@@ -57,6 +57,12 @@ will not display in the credits scene
 \c[3]スペキュラム合金 -
 </block>
 
+<block:-1,-1,10,10,offbot,right,Pic_19>
+\c[2]声・配役：
+\c[3]- レミリア・スカーレット - JuanLuGames
+\c[3]- 玄爺 - JoseMix
+</block>
+
 <block:-1,-1,10,10,offbot,left,Pic_25>
 \c[2]作成したプラグイン:
 \c[3]- Moghunter
