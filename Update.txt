@@ -1,3 +1,0 @@
-<Version: 1.01>
-update/latest.zip https://dl.dropboxusercontent.com/s/fi8zqars1k521gr/latest.zip?dl=0
-<End of Version>
